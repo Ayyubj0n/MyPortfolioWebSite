@@ -70,6 +70,9 @@ h2{
     flex-direction: column;
     gap: 20px;
 }
+.my-project>p{
+    max-width:800px;
+}
 .my-project > i{
     font-size: 40px;
     color: black;   
